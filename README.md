@@ -8,4 +8,4 @@ Nombre:	Marelin Cristal Guzman Diaz
 
 Colegio:	Colegio Santa Catalina Laboure
 
-https://github.com/marelinguzman/Diccionario.git
+https://marelinguzman.github.io/Diccionario/
