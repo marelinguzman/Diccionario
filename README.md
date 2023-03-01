@@ -1,3 +1,3 @@
 # Diccionario
 
-https://marelinguzman.github.io/diccionario/
+https://marelinguzman.github.io/Diccionario/
